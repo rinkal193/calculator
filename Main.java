@@ -20,7 +20,7 @@ public class Main {
 		 b =sc.nextInt();
 		 
 		
-		 System.out.println("Select the option from the following menu:");
+		 System.out.println("Select the option:");
 		 System.out.println("1.Addition 2.Subtraction 3.Multiplication 4.Division 5.Exit");
 		 option = sc.nextInt();
 		 if(option == 5)
